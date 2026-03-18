@@ -1,0 +1,6 @@
+data/processed/
+models/*.pkl
+__pycache__/
+*.pyc
+.env
+.streamlit/
